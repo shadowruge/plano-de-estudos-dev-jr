@@ -41,5 +41,3 @@ Para juniors, foque em algoritmos simples:
   - YouTube: Canais como "NeetCode" ou "CS Dojo" (vídeos curtos para beginners).
   - Livros: "Elements of Programming Interviews" (edição jr) ou "Grokking Algorithms".
   - Cursos: freeCodeCamp (seções de algoritmos).
-
-Se você especificar uma linguagem ou tópico (ex: Python), posso dar exemplos mais detalhados ou um plano semanal. Boa sorte na vaga! 🚀
